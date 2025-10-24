@@ -1,0 +1,22 @@
+.navbarBrand{
+    font-family: 'Times New Roman', Times, serif;   
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-style: italic;
+    color: white;
+    text-shadow: 2px 2px 4px #827d7d;
+    padding: 0.5rem 2rem;
+    padding-right: 20rem;
+}
+.nav-item{
+    font-size: 1.5rem;
+    font-weight: 500;
+    padding: 0.5rem 3rem;
+}
+.navbar-toggler{
+    right: 1rem;
+}
+.h1{
+  font-size:4rem;
+  margin-bottom: 5rem;
+}
